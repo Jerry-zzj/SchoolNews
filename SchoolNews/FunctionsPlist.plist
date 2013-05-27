@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InTabBar</key>
+	<array>
+		<string>浙传新闻</string>
+		<string>一周会议</string>
+		<string>通讯录</string>
+	</array>
+	<key>InPullView</key>
+	<array>
+		<string>通知公告</string>
+		<string>就业服务</string>
+		<string>学术讲座</string>
+		<string>团学活动</string>
+		<string>对外交流</string>
+		<string>人事服务</string>
+		<string>综合服务</string>
+		<string>教务服务</string>
+	</array>
+	<key>NotShow</key>
+	<array/>
+</dict>
+</plist>
